@@ -22,7 +22,7 @@
 
 ### ⚡ Focus
 
-Currently figuring out how AI models actually make it from a notebook into something real — mostly databases and backend design right now, with RAG as the next thing I'm building towards. Keeping an eye on where LLMs and agentic AI are headed.
+Currently figuring out how AI models actually make it from a notebook into something real — mostly databases and backend design right now, with RAG as the next thing I'm building towards. Interested in how AI systems are designed and deployed at scale.
 
 <br>
 
@@ -79,10 +79,8 @@ A task manager built with Python and PostgreSQL, currently at the basic CRUD sta
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ezekielkharkongor08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekielkharkongor08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=ezekielkharkongor08&theme=tokyonight&hide_border=true&background=0D1117" />
 
