@@ -14,7 +14,7 @@
 
 [![Email](https://img.shields.io/badge/-ezekielkharkongor%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ezekielkharkongor@gmail.com)
 [![GitHub](https://img.shields.io/badge/-ezekielkharkongor08-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezekielkharkongor08)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/ezekielkharkongor)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ezekielkharkongor/)
 
 </div>
 
