@@ -79,8 +79,11 @@ A task manager built with Python and PostgreSQL, currently at the basic CRUD sta
 
 ### 📊 GitHub Stats
 
-
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ezekielkharkongor08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br>
 
 <img src="https://streak-stats.demolab.com/?user=ezekielkharkongor08&theme=tokyonight&hide_border=true&background=0D1117" />
 
