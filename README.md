@@ -69,7 +69,7 @@ Detects AI-generated audio by converting it into Mel spectrograms and treating d
 
 <br>
 
-#### 🗂️ [Task Management System](https://github.com/ezekielkharkongor08/Task_Management_System) <img src="https://img.shields.io/badge/status-in--progress-yellow?style=flat-square" />
+#### 🗂️ [Task Management System](https://github.com/ezekielkharkongor08/Task_Management_System)
 
 A task manager built with Python and PostgreSQL, currently at the basic CRUD stage — improvements coming.
 
