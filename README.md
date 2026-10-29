@@ -22,7 +22,7 @@
 
 ### ⚡ Focus
 
-Currently figuring out how AI models actually make it from a notebook into something real — mostly databases and backend design right now, with RAG as the next thing I'm building towards. Interested in how AI systems are designed and deployed at scale.
+Currently figuring out how AI models actually make it from a notebook into something real. I've built my first local RAG system and I'm now exploring agentic AI, with databases and backend design alongside. Interested in how AI systems are designed and deployed at scale.
 
 <br>
 
@@ -74,6 +74,14 @@ Detects AI-generated audio by converting it into Mel spectrograms and treating d
 A task manager built with Python and PostgreSQL, currently at the basic CRUD stage — improvements coming.
 
 `Python` `PostgreSQL` `CRUD`
+
+<br>
+
+#### ⚽ [Gunner RAG](https://github.com/ezekielkharkongor08/Gunner-RAG)
+
+A fully local RAG system over Arsenal F.C. Wikipedia data. It supports multi-turn chat, summarization, and ingestion of new Wikipedia pages from the app. Built with section-aware chunking, section routing, query rewriting, Reciprocal Rank Fusion, and a season guard for cleaner retrieval. Runs on Llama 3.1 8B and Qwen3-Embedding-0.6B through Ollama, with PostgreSQL and pgvector for vector search.
+
+`Python` `LangChain` `Ollama` `PostgreSQL` `pgvector` `FastAPI` `Streamlit`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
